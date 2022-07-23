@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/martsavy/3e424baf-88bf-4b58-80e6-68f4621845e0/5a7101dd-365c-4f58-9789-9100823d7c96/_apis/work/boardbadge/793b666d-04e3-499e-aefa-ef9af1cf3f34)](https://dev.azure.com/martsavy/3e424baf-88bf-4b58-80e6-68f4621845e0/_boards/board/t/5a7101dd-365c-4f58-9789-9100823d7c96/Microsoft.RequirementCategory)
 # az-400
